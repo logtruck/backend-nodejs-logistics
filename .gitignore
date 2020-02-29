@@ -93,3 +93,6 @@ typings/
 # Heroku
 /*.env
 .vscode/
+
+
+AuthKey_AWUK55KY98.p8
